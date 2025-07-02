@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Scrapy
+.scrapy/
+
+# Vector Store
+vector_store/
+
+# Scraped Data
+mosdac_scraper/scraped_data.jsonl

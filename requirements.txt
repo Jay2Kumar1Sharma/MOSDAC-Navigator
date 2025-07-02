@@ -1,0 +1,21 @@
+# Web Frameworks and Servers
+fastapi
+uvicorn[standard]
+streamlit
+requests
+
+# Web Scraping
+scrapy
+PyMuPDF
+
+# LangChain and AI Core
+langchain
+langchain-community
+langchain-google-genai
+sentence-transformers
+faiss-cpu
+
+# Data handling
+pandas
+
+python-dotenv
