@@ -217,34 +217,3 @@ python test_api.py
 ### Deprecation Warnings
 If you see warnings about `convert_system_message_to_human`, these are harmless and have been fixed in the latest version.
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- **MOSDAC** for providing meteorological and oceanographic data services
-- **Google AI** for the Gemini API
-- **LangChain** for the RAG framework
-- **FAISS** for efficient vector search
-- **Streamlit** for the beautiful frontend
-
-## 📞 Support
-
-If you encounter any issues:
-1. Check the [Troubleshooting](#-troubleshooting) section
-2. Review the error logs in the terminal
-3. Ensure all prerequisites are met
-4. Test your Google AI API key with `test_gemini.py`
-
----
-
-**Happy querying! 🛰️**
